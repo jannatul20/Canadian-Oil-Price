@@ -1,5 +1,7 @@
 # Canadian-Oil-Price
 
+**Full link of report of this project work available at "https://medium.com/@jannatulnaeema/fueling-the-debate-81d1bf66ce09"**
+
 Canada is one of the largest crude oil producers in the world, with significant reserves of both conventional and unconventional oil; this fact, coupled with recent spikes in gas prices, has inspired me to undertake a project aimed at gaining a deeper understanding of the Canadian oil production and export industry. By conducting a thorough analysis of the production and export data available, I hope to shed light on the the Canadian crude oil market and identify the key factors driving recent price fluctuations.
 
 Datasets: I used total 3 datasets for this project.
@@ -16,5 +18,3 @@ Tableau links of analysis are available at
 6. "https://public.tableau.com/app/profile/jannatul6930/viz/GasPriceatInternationalMarket/Dashboard1#1"
 7. "https://public.tableau.com/app/profile/jannatul6930/viz/GasolinePriceatdifferentCanadiancities/Sheet1"
 8. "https://public.tableau.com/app/profile/jannatul6930/viz/GasolinePriceatdifferentCanadiancities/Dashboard1"
-
-Full link of report of this project work available at "https://medium.com/@jannatulnaeema/fueling-the-debate-81d1bf66ce09"
