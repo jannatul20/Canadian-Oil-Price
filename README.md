@@ -9,7 +9,7 @@ Dataset 1 at "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2510006301&p
 Dataset 2 at "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000101"
 Dataset 3 at "https://ca.investing.com/commodities/crude-oil-historical-data"
 
-Tableau links of analysis are available at 
+Tableau Dashboard links of analysis are available at 
 1. "https://public.tableau.com/app/profile/jannatul6930/viz/AreaChartofNationalProductionImportExportandRefining/sheet5"
 2. "https://public.tableau.com/app/profile/jannatul6930/viz/NationalandProvincialProductionImportandRefining/Dashboard2"
 3. "https://public.tableau.com/app/profile/jannatul6930/viz/NationalandProvincialProductionImportandRefining/Dashboard1"
